@@ -1,0 +1,5 @@
+Login: admin
+Parol: 12365
+Login yoki parol xatoLogin: 301211100310
+Parol: xayr2003
+Siz tizimga muvaffaqiyatli kirdingiz.
